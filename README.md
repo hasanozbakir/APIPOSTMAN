@@ -23,5 +23,5 @@ Finally, you can use the following command
 
 ```
 newman run rickandmorthy.postman_collection.json -e rickandmorty.postman_environment.json -r htmlextra
-`
+```
 :white_square_button: Then open the result by using web browser
