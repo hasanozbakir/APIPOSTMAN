@@ -1,5 +1,7 @@
 # APIPOSTMAN
 
+[Test API Docs](https://rickandmortyapi.com/documentation)
+
 ### Installing and running Newman
 
 To get started using Newman, install Node.js, then Newman. Then you can run your collections.
